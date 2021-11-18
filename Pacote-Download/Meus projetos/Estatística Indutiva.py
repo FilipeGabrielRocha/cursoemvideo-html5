@@ -25,6 +25,8 @@ while True:
                 pergunta = ' '
                 while pergunta not in 'SN':
                     pergunta = str(input('Quer continuar? [S/N] ')).strip().upper()[0]
+                    if pergunta not in 'SN':
+                        print('Apenas resposta N ou S')
                 if pergunta == 'N':
                     break
             for num in range(0, len(xi)):
