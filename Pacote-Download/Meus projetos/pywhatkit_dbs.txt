@@ -1,0 +1,156 @@
+--------------------
+Date: 8:11:2021
+Time: 9:35
+Phone number: +5512981188131
+Message: Teste
+--------------------
+Date: 8:11:2021
+Time: 9:36
+Phone number: +5512981188131
+Message: Teste(msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 9:36
+Phone number: +5512982297858
+Message: Teste(msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 9:38
+Phone number: +5512982297858
+Message: Teste(msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 9:46
+Phone number: +5512982297858
+Message: Teste 3 (msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 9:47
+Phone number: +5512982297858
+Message: Teste 3 (msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 9:47
+Phone number: +5512982297858
+Message: Teste 3 (msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 9:48
+Phone number: +5512982297858
+Message: Teste 3 (msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 9:49
+Phone number: +5512982297858
+Message: Teste 3 (msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 9:50
+Phone number: +5512982297858
+Message: Teste 3 (msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 9:50
+Phone number: +5512982297858
+Message: None
+--------------------
+Date: 8:11:2021
+Time: 9:55
+Phone number: +5512982297858
+Message: None
+--------------------
+Date: 8:11:2021
+Time: 9:58
+Phone number: +5512982297858
+Message: Teste 4 (msg vindo diretamente do python)
+--------------------
+Date: 8:11:2021
+Time: 10:0
+Phone number: +5512982297858
+Message: AMÉM
+--------------------
+Date: 8:11:2021
+Time: 10:2
+Phone number: +5512982297858
+Message: Agora posso agendar mensagens, então remédio seu, ou qualquar outra coisa, só me fala amor
+--------------------
+Date: 8:11:2021
+Time: 12:49
+Phone number: +5512982297858
+Message: teste 5
+--------------------
+Date: 8:11:2021
+Time: 12:53
+Group_id: Grupo do Filipe
+Message: Teste
+--------------------
+Date: 8:11:2021
+Time: 12:53
+Group_id: https://chat.whatsapp.com/CLPvD5CeBEX8S3nCVmDS4E
+Message: Teste
+--------------------
+Date: 8:11:2021
+Time: 12:55
+Group_id: https://chat.whatsapp.com/CLPvD5CeBEX8S3nCVmDS4E
+Message: Teste
+--------------------
+Date: 8:11:2021
+Time: 20:20
+Phone number: +5512982153441
+Message: Você está recebendo essa mensagem diretamente do PYTHON, tenha uma Boa noite. Ass: Filipe
+--------------------
+Date: 8:11:2021
+Time: 20:20
+Phone number: +5512982153441
+Message: Você está recebendo essa mensagem diretamente do PYTHON, tenha uma Boa noite. Ass: Filipe
+--------------------
+Date: 8:11:2021
+Time: 20:21
+Phone number: +5512982153451
+Message: Você está recebendo essa mensagem diretamente do PYTHON, tenha uma Boa noite. Ass: Filipe
+--------------------
+Date: 8:11:2021
+Time: 20:22
+Phone number: +5512991666295
+Message: Você está recebendo essa mensagem diretamente do PYTHON, tenha uma Boa noite. Ass: Filipe
+--------------------
+Date: 8:11:2021
+Time: 20:23
+Phone number: +5512982153441
+Message: Você está recebendo essa mensagem diretamente do PYTHON, tenha uma Boa noite. Ass: Filipe
+--------------------
+Date: 8:11:2021
+Time: 20:24
+Phone number: +5512982153451
+Message: Você está recebendo essa mensagem diretamente do PYTHON, tenha uma Boa noite. Ass: Filipe
+--------------------
+Date: 8:11:2021
+Time: 20:25
+Phone number: +5512991666295
+Message: Você está recebendo essa mensagem diretamente do PYTHON, tenha uma Boa noite. Ass: Filipe
+--------------------
+Date: 9:11:2021
+Time: 21:58
+Phone number: +5512982297858
+Message: Tomar anticoncepcional amor
+--------------------
+Date: 9:11:2021
+Time: 22:9
+Phone number: +5512982297858
+Message: Tomar anticoncepcional amor
+--------------------
+Date: 9:11:2021
+Time: 22:13
+Phone number: +5512982297858
+Message: Tomar anticoncepcional amor
+--------------------
+Date: 10:11:2021
+Time: 10:0
+Phone number: +5512982297858
+Message: Testando amor
+--------------------
+Date: 10:11:2021
+Time: 10:2
+Phone number: +5512982297858
+Message: Testando amor
+--------------------
